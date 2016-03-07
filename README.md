@@ -1,7 +1,7 @@
 # ocamlopt-afl
 
 Fuzz testing OCaml's native-code compiler using [American fuzzy
-lop](http://lcamtuf.coredump.cx/afl/)(afl).
+lop (afl)](http://lcamtuf.coredump.cx/afl/).
 
 ## Install
 
