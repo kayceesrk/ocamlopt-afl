@@ -5,8 +5,8 @@ lop](http://lcamtuf.coredump.cx/afl/)(afl).
 
 ## Install
 
-  1. [Install afl](http://lcamtuf.coredump.cx/afl/)
-  2. Install afl instrumented OCaml
+  1. [Install afl](http://lcamtuf.coredump.cx/afl/).
+  2. Install afl instrumented OCaml.
 
          $ opam remote add ocamllabs -k git https://github.com/ocamllabs/opam-repo-dev
          $ opam switch 4.02.3+afl
